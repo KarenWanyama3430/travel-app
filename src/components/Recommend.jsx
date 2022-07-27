@@ -50,7 +50,7 @@ export default function Recommend() {
     {
       image: Destination6,
       title: "London",
-      subTitle: "London, the capital of England and the United",
+      subTitle: "London, the capital of England",
       cost: "38,800",
       duration: "Approx 3 night 2 day trip",
     },
