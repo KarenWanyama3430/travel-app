@@ -15,7 +15,7 @@ export default function Recommend() {
     {
       image: Destination1,
       title: "Singapore",
-      subTitle: "Singapore, officialy the Republic of Singapore, is a",
+      subTitle: "Singapore, officially the Republic of Singapore, is a",
       cost: "38,800",
       duration: "Approx 2 night trip",
     },
