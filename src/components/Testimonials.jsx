@@ -34,7 +34,7 @@ export default function Testimonials() {
         </div>
         <div className="testimonial">
           <p>
-            Great App gor tours and travels ,i would recommend it to anyone who wishes to travel around the world.
+            Great App for tours and travels ,i would recommend it to anyone who wishes to travel around the world.
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
