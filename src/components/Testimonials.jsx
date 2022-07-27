@@ -10,27 +10,25 @@ export default function Testimonials() {
       <div className="testimonials">
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            I recieved the best services, best travel agency , i would recomend it to anyone.
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Karlos Keith</h4>
+              
             </div>
           </div>
         </div>
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            Top notch services that are pocket friendly,i would recomend it to anyone.
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Valentine Wafula</h4>
+            
             </div>
           </div>
         </div>
