@@ -11,9 +11,7 @@ export default function Hero() {
         <div className="title">
           <h1>TRAVEL TO EXPLORE</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere
-            natus, enim ipsam magnam odit deserunt itaque? Minima earum velit
-            tenetur!
+            Travel with the best;Safiri Travel Patner!
           </p>
         </div>
         <div className="search">
