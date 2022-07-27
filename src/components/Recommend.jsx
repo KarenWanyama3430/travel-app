@@ -43,7 +43,7 @@ export default function Recommend() {
     {
       image: Destination5,
       title: "Bora Bora",
-      subTitle: "Bora Bora is a small South Pacific island northwest of",
+      subTitle: "Bora Bora is a small South Pacific island ",
       cost: "95,400",
       duration: "Approx 2 night 2 day trip",
     },
