@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Recommend from "./components/Recommend";
 import ScrollToTop from "./components/ScrollToTop";
 import Services from "./components/Services";
-import Testimonials from "./components/Testimonials";
+
 import scrollreveal from "scrollreveal";
 export default function App() {
   useEffect(() => {

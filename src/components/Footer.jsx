@@ -16,9 +16,7 @@ export default function Footer() {
         <li>
           <a href="#recommend">Places</a>
         </li>
-        <li>
-          <a href="#testimonials">Testimonials</a>
-        </li>
+        
       </ul>
       <ul className="social__links">
         <li>
