@@ -39,7 +39,7 @@ export default function Testimonials() {
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Sebatian Tinamil</h4>
+              <h4>Sebastian Tinamil</h4>
   
             </div>
           </div>
