@@ -44,10 +44,15 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KarenWanyama3430/travel-app.git"
+
+  
+
+
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KarenWanyama3430/travel-app/issues"
   }
+
 }
