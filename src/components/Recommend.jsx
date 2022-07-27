@@ -22,7 +22,7 @@ export default function Recommend() {
     {
       image: Destination2,
       title: "Thailand",
-      subTitle: "Thailand is a Southeast Asia country. It's known for",
+      subTitle: "Thailand is a South east Asia country. It's known for",
       cost: "54,200",
       duration: "Approx 2 night trip",
     },
@@ -36,7 +36,7 @@ export default function Recommend() {
     {
       image: Destination4,
       title: "New Zealand",
-      subTitle: "New Zealand is an island country in the",
+      subTitle: "New Zealand is an island country",
       cost: "24,100",
       duration: "Approx 1 night trip",
     },
