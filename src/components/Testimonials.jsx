@@ -22,7 +22,7 @@ export default function Testimonials() {
         </div>
         <div className="testimonial">
           <p>
-            Top notch services that are pocket friendly,i would recomend it to anyone.
+            Top notch services that are pocket friendly, Iwould recomend it to anyone.
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
@@ -34,14 +34,13 @@ export default function Testimonials() {
         </div>
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            Great App gor tours and travels ,i would recommend it to anyone who wishes to travel around the world.
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Sebatian Tinamil</h4>
+  
             </div>
           </div>
         </div>
