@@ -32,9 +32,7 @@ export default function Navbar() {
           <li>
             <a href="#recommend">Places</a>
           </li>
-          <li>
-            <a href="#testimonials">Testimonials</a>
-          </li>
+          
         </ul>
         <button>Connect</button>
       </Nav>
