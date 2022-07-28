@@ -80,6 +80,5 @@ const Section = styled.section`
   }
 `;
 
- /* API link */
 
 
