@@ -59,6 +59,6 @@ const sucessfulLookup = (position) =>{
   const {lattitude ,longitude}= position.coords;
   const self= this;
   fetch ('https://api.opencagedata.com/geocode/v1/json?q=${lattitude}+{longitude}&key=0e4d7d46374b4894a7d31af02107372d')
-  .then (response = response.json())
+  
   .then (console.log);
 };         
